@@ -1,0 +1,18 @@
+QuickCart Tokens
+
+COLOR
+├── color-action → #45C46B
+├── color-text-primary → #222222
+├── color-text-secondary → #777777
+├── color-surface → #FFFFFF
+└── color-surface-success → #D8F8D8
+
+TYPOGRAPHY
+├── type-size-heading → 20px
+└── type-size-body → 14px
+
+SPACING
+└── spacing-md → 16px
+
+RADIUS
+└── radius-card → 12px
